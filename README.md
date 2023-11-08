@@ -1,4 +1,4 @@
-# <img src="https://github.com/hvignolo87/tito/blob/main/tito_icon.png" width="25" title="hover text"> TITO FOR MENDOZA
+# <img src="https://github.com/MatyAlts/PrenotamiBOT-mendoza-/blob/main/tito_icon.png" width="25" title="hover text"> TITO FOR MENDOZA
 tito is a bot used to book a day to request italian citizenship (by any method) or passport at Prenot@Mi website.
 
 It's coded in Python, with the Selenium package for web scraping.
